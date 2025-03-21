@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+        "name" : "Pukesmas Piyungan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.44870301176468,
+            -7.828528801518431
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
