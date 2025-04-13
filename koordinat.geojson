@@ -5,7 +5,7 @@
   "features": [
 { "type": "Feature", "properties": { "Bujur": -7.909247, "Lintang": 110.478903, "Foto": 1, "Link": "https://simpan.ugm.ac.id/s/ql5EtydFprF8SkE/download" }, "geometry": { "type": "Point", "coordinates": [ 110.478903, -7.909247 ] } },
 { "type": "Feature", "properties": { "Bujur": -7.845636, "Lintang": 110.479744, "Foto": 2, "Link": "https://simpan.ugm.ac.id/s/QElj6ratkhR4YQF/download" }, "geometry": { "type": "Point", "coordinates": [ 110.479744, -7.845636 ] } },
-{ "type": "Feature", "properties": { "Bujur": -7.840717, "Lintang": 110.473186, "Foto": 3, "Link": "https://simpan.ugm.ac.id/s/W1EWQbHOgAk7qGx/download" }, "geometry": { "type": "Point", "coordinates": [ 110.473186, -7.840717 ] } },
+{ "type": "Feature", "properties": { "Bujur": -7.845636, "Lintang": 110.479744, "Foto": 3, "Link": "https://simpan.ugm.ac.id/s/W1EWQbHOgAk7qGx/download" }, "geometry": { "type": "Point", "coordinates": [ 110.479744, -7.845636 ] } },
 { "type": "Feature", "properties": { "Bujur": -7.907636, "Lintang": 110.470975, "Foto": 4, "Link": "https://simpan.ugm.ac.id/s/KQHyikFk7u9jnnk/download" }, "geometry": { "type": "Point", "coordinates": [ 110.470975, -7.907636 ] } },
 { "type": "Feature", "properties": { "Bujur": -7.907636, "Lintang": 110.470975, "Foto": 5, "Link": "https://simpan.ugm.ac.id/s/INrYXsQwZg0Z5ah/download" }, "geometry": { "type": "Point", "coordinates": [ 110.470975, -7.907636 ] } },
 { "type": "Feature", "properties": { "Bujur": -7.840592, "Lintang": 110.445711, "Foto": 6, "Link": "https://simpan.ugm.ac.id/s/yYdUH0VIGTkQdTg/download" }, "geometry": { "type": "Point", "coordinates": [ 110.445711, -7.840592 ] } },
